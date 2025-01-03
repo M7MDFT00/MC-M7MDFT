@@ -13,3 +13,13 @@ body {
    background-color: rgb(32, 32, 32);
 
 }
+.bedrock , .Java {
+background-color: rgba(74, 74, 74, 0.219);
+border-radius: 1%;
+
+}
+img {
+background-color: rgba(79, 81, 81, 0.733);
+border-radius: 10%;
+
+}
